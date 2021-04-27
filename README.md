@@ -1,1 +1,1 @@
-# Online_Retailer_Analysis
+Documentation for online retailer dataset. Dataset is very large, and requires the use of Spark and Hadoop due to class constraints (ECE 590 in GMU). Data is pre-processed first, then analyzed using various machine learning methods and spark methods, including GraphX.
